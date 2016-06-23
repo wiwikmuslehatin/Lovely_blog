@@ -1,5 +1,5 @@
 ---
-title:  "Flowers-Pink-Bubbles-Sun-Nature!"
+title:  "Flowers-Bubbles-Sun-Nature!"
 subtitle: "Isnt this so lovely?"
 author: "ANMILD^95"
 avatar: "img/authors/wferr.png"
