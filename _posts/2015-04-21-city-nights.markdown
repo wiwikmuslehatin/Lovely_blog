@@ -3,7 +3,7 @@ title:  "Flowers-Pink-Bubbles-Sun-Nature!"
 subtitle: "Isnt this so lovely?"
 author: "ANMILD^95"
 avatar: "img/authors/wferr.png"
-image: "img/y7040593-snowflake-sunshine.jpg"
+image: "img/y6960724-flowers-pink-bubbles-sun-nature.jpg"
 date:   2016-04-20 12:12:12
 ---
 
